@@ -2,7 +2,7 @@
     border-bottom: 1px solid #ccc;
     border-radius: 4px;
     margin-bottom: 10px;
-    width: 300px;
+    width: 500px;
     padding: 2rem;
   }
 
@@ -28,6 +28,6 @@
   }
   
   .accordion {
-    width: 300px;
+    width: 500px;
     margin: 0 auto;
   }
