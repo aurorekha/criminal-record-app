@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.group-button {
+  background-color: transparent;
+  border: 1px solid #333;
+  padding: 1rem;
+  width: 300px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
