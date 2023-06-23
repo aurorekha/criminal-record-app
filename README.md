@@ -7,7 +7,7 @@ Then run
 yarn  
 ```
 
-# How to get the app runnning
+# How to get the app running
 To get the app running we need to run both the app and the server to run locally. 
 
 # To start the app
